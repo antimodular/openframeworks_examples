@@ -13,4 +13,4 @@ It has only been tested on osx 10.10.5 with OF 0.9.8
 ## Images
 Screen shot:
 
-![](https://raw.githubusercontent.com/stephanschulz/threadChannelExample_class/master/Screen_Shot.png)
+![](https://raw.githubusercontent.com/antimodular/openframeworks_examples/master/threadChannelExample_class/Screen_Shot.png)
